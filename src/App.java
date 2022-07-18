@@ -15,6 +15,9 @@ public class App {
         curso2.setDescricao("Node JS realTime");
         curso2.setCargaHoraria(10);
 
+        /*  polimorfismo 
+        Conteudo conteudo = new Curso(); */
+
         Mentoria mentoria = new Mentoria();
         mentoria.setTitulo("Java Mentoria");
         mentoria.setDescricao("mentoria de OO em java");
